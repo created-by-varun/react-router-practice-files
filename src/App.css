@@ -7,7 +7,7 @@ nav{
   justify-content: space-around;
   align-items: center;
   min-height: 10vh;
-  background: rgb(65, 95, 105);
+  background: rgb(218, 59, 45);
   color: white;
 }
 
@@ -17,4 +17,8 @@ nav{
   justify-content: space-around;
   align-items: center;
   list-style-type: none;
+}
+
+.nav-links li{
+  color: aliceblue;
 }
